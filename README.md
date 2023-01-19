@@ -9,7 +9,7 @@ Day 2 - 10: GoldMan Sachs
 
 Day 10 - 15: Adobe
 
-Day 15 - 20:
+Day 15 - 20: Flipkart
 
 Day 20 - 25:
 
