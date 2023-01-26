@@ -11,7 +11,7 @@ Day 10 - 15: Adobe
 
 Day 15 - 20: Flipkart
 
-Day 20 - 25:
+Day 20 - 25: Google
 
 Day 25 - 30:
 
