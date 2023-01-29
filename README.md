@@ -1,5 +1,5 @@
 ## 6 COMPANIES 30 DAYS
-Challenge from Arsh Goyal
+Challenge from Arsh Goyal : COMPLETED
 
 GOAL: To Solve 90 Question in 30 days
 
@@ -13,7 +13,7 @@ Day 15 - 20: Flipkart
 
 Day 20 - 25: Google
 
-Day 25 - 30:
+Day 25 - 30: Amazon
 
 
 AIM: Solve 3 Question / Day
